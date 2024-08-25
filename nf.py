@@ -102,13 +102,13 @@ while True:
 ⋘──────━𓆩 𝗜𝗠𝟰𝗥𝗘𝗫 𓆪━──────⋙
 ''') 
                        
-   elif 'unrecognized_email' in IMREX:
+   elif 'unrecognized_email' in MODCA:
             print(f'{md1}𝐖𝐑𝐎𝐍𝐆 𝐄𝐌𝐈𝐀𝐋 -> {ema} | {password}')
             
-   elif 'NetflixId":null,"user":{' in IM4REX:
+   elif 'NetflixId":null,"user":{' in MODCA:
    	 print(f'{md1}𝐖𝐑𝐎𝐍𝐆 𝐔𝐒𝐄𝐑 -> {ema} | {password}')
    	 
-   elif 'Missing password' in IM4REX:
+   elif 'Missing password' in MODCA:
    	 print(f'{md1}𝐌𝐈𝐒𝐒𝐈𝐍𝐆 𝐏𝐀𝐒𝐒𝐖𝐎𝐑𝐃 -> {ema} | {password}')
    	 
    elif 'Incorrect email address or password' in MODCA:
